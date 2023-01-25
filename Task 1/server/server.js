@@ -2,6 +2,7 @@ const express = require("express");
 const mongoose = require("mongoose");
 const dotenv = require("dotenv");
 const authRouter = require("./routes/authRoutes");
+const formRouter = require("./routes/formRoutes");
 const cors = require("cors");
 const app = express();
 
@@ -12,7 +13,8 @@ app.use(express.urlencoded({ extended: true }));
 dotenv.config();
 
 //routes
-app.use("/api/auth", authRouter)
+app.use("/api/auth", authRouter);
+app.use("/api/form", formRouter);
 
 const URL = process.env.MONGODBURL;
 mongoose.set('strictQuery', true);
