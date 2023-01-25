@@ -52,7 +52,7 @@ const Form = () => {
   };
   return (
     <Wrapper>
-      <div className="container">
+      <div className="container1">
         <div className="box">
           <p>Responsive Add Documents</p>
           <form onSubmit={formHanlder}>
@@ -117,7 +117,7 @@ const Form = () => {
 export default Form;
 
 const Wrapper = styled.div`
-  .container {
+  .container1 {
     display: flex;
     justify-content: center;
     align-items: center;
