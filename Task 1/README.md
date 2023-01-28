@@ -6,4 +6,9 @@
 https://user-images.githubusercontent.com/109691178/214447658-4e505fe3-4d39-4717-bdb6-cb523e6db883.mp4
 
 ![Add Doc](https://user-images.githubusercontent.com/109691178/214696312-b1801a2d-a4bc-4520-8053-715c33bfaae2.PNG)
-![Table](https://user-images.githubusercontent.com/109691178/214696328-71418151-8cb7-4373-96c0-6b5f326104cb.PNG)
+![Table](https://user-images.githubusercontent.com/109691178/214696328-71418151-8cb7-4373-96c0-6b5f326104cb.PNG)![AddEmployee](https://user-images.githubusercontent.com/109691178/215264853-ecb84d63-829a-423e-af50-d05b82d1de80.PNG)
+
+
+![Edit](https://user-images.githubusercontent.com/109691178/215264858-676b56e0-2746-49c2-ae52-5790acc6d316.PNG)
+
+![New](https://user-images.githubusercontent.com/109691178/215264852-212e3504-01a0-4902-95b8-1043cf92fd40.PNG)
