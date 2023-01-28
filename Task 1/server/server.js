@@ -15,6 +15,7 @@ dotenv.config();
 //routes
 app.use("/api/auth", authRouter);
 app.use("/api/form", formRouter);
+app.use("/api/employs", employRouter)
 
 const URL = process.env.MONGODBURL;
 mongoose.set('strictQuery', true);
